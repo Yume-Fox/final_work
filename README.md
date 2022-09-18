@@ -27,10 +27,10 @@ _**Примеры:**_
 
 # Блок-схема решения
 
-![Блок-схема](../final_work/shema.png "Блок-схема")
+![Блок-схема](https://github.com/Yume-Fox/final_work/blob/main/shema.png "Блок-схема")
 
 ***
 
 # Решение на языке C#
 
-[КОД РЕШЕНИЯ](../final_work/Program.cs)
+[КОД РЕШЕНИЯ](https://github.com/Yume-Fox/final_work/blob/main/final_work/Program.cs)
